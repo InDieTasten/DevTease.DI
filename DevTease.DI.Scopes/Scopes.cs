@@ -3,7 +3,7 @@ using System;
 
 namespace DevTease.DI.Scopes
 {
-    internal static class Program
+    internal static class Scopes
     {
         private interface IFoo
         {

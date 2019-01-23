@@ -2,7 +2,7 @@
 
 namespace DevTease.DI.CollectionVsProvider
 {
-    internal class Program
+    internal class CollectionVsProvider
     {
         private class A : IA
         {

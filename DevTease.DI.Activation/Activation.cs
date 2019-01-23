@@ -3,7 +3,7 @@ using System;
 
 namespace DevTease.DI.Activation
 {
-    internal class Program
+    internal class Activation
     {
         private class Dependency
         {

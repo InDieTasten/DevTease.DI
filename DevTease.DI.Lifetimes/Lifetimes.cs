@@ -3,7 +3,7 @@ using System;
 
 namespace DevTease.DI.Lifetimes
 {
-    internal class Program
+    internal class Lifetimes
     {
         private interface IFoo
         {
