@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2) Lifetimes", "DevTease.DI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3) Scopes", "DevTease.DI.Scopes\3) Scopes.csproj", "{92906F00-EFE0-40FD-8BBD-7DB297E15BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4) Activation", "DevTease.DI.Activation\4) Activation.csproj", "{F0C04DCC-DA18-4148-BA3F-AB64C7290454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4) Activation", "DevTease.DI.Activation\4) Activation.csproj", "{F0C04DCC-DA18-4148-BA3F-AB64C7290454}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{521B404E-B25B-4ACB-859F-EA3F761767FC}"
+	ProjectSection(SolutionItems) = preProject
+		RELATED-MATERIAL.md = RELATED-MATERIAL.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
