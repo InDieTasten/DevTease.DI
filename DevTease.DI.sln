@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.DI.CollectionVsProvider", "DevTease.DI.CollectionVsProvider\DevTease.DI.CollectionVsProvider.csproj", "{CB893E09-F123-4C27-96FE-C117F1753B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1) Collection vs. Provider", "DevTease.DI.CollectionVsProvider\1) Collection vs. Provider.csproj", "{CB893E09-F123-4C27-96FE-C117F1753B5E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.DI.Lifetimes", "DevTease.DI.Lifetimes\DevTease.DI.Lifetimes.csproj", "{3AAD6900-AFA9-4C1C-8D8C-59E0B03E4115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2) Lifetimes", "DevTease.DI.Lifetimes\2) Lifetimes.csproj", "{3AAD6900-AFA9-4C1C-8D8C-59E0B03E4115}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.DI.Scopes", "DevTease.DI.Scopes\DevTease.DI.Scopes.csproj", "{92906F00-EFE0-40FD-8BBD-7DB297E15BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3) Scopes", "DevTease.DI.Scopes\3) Scopes.csproj", "{92906F00-EFE0-40FD-8BBD-7DB297E15BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTease.DI.Activation", "DevTease.DI.Activation\DevTease.DI.Activation.csproj", "{F0C04DCC-DA18-4148-BA3F-AB64C7290454}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4) Activation", "DevTease.DI.Activation\4) Activation.csproj", "{F0C04DCC-DA18-4148-BA3F-AB64C7290454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
